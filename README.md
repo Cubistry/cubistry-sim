@@ -4,26 +4,7 @@
 
 ## Overview
 
-**Cubistry Sim** is an advanced cube simulation platform designed to teach, visualize, and master Rubik’s Cube solving techniques. Powered by **Cube.js**, **TypeScript**, and **Three.js**, it brings an AI-driven learning experience to life with dynamic 3D cube animations and intelligent move guidance.
-
-Whether you're a beginner learning your first solve or an expert refining your speed, Cubistry Sim provides an intuitive and interactive environment to level up your cubing skills.
-
-## Features
-
--   🎲 **AI-Powered Scramble & Solve**
-    Generate smart scrambles and visualize optimal solving paths step-by-step.
-
--   🌐 **3D Interactive Cube**
-    Manipulate a fully rendered 3D Rubik’s Cube using Three.js, with smooth animations and intuitive controls.
-
--   📚 **Learn-by-Doing Mode**
-    Follow along with guided solving techniques, visual hints, and move explanations to build mastery.
-
--   ⚙️ **Modular and Extensible**
-    Built with a clean, modular architecture in TypeScript, making it easy to extend or integrate into other projects.
-
--   🚀 **Optimized for Performance**
-    Lightweight, fast, and optimized for a seamless experience across devices.
+**Cubistry Sim** is a lightweight, high-accuracy 3D Rubik’s Cube simulation engine designed to generate training data for AI models.
 
 ## License
 
